@@ -8,7 +8,7 @@ Tested on a Wurm Unlimited Dedicated Server v1.8.0.3 with ago1024's server modlo
 # configuration
 The following settings are available:
 
-* gmPower - 0-5, specifices a minimum player power that can bypass the restrictions of this mod. For example, setting this to 5 will allow players of power 5 to still create settlements.
+* gmPower - integer, 0-5, specifices a minimum player power that can bypass the restrictions of this mod. For example, setting this to 5 will allow players of power 5 to still create settlements. Default is 5.
 
 # prerequisites
 Requires [SinduskLibrary](https://github.com/Sindusk/sindusklibrary/releases).
